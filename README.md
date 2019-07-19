@@ -1,10 +1,10 @@
 # Car-Price-Prediction
 
 **This Project is a work in progress.**
- 
-This [project](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb) is engineered to use **Pyspark** to load over a million records of car sales made across the United States (>500MB) and processes them to understand various predictors of *listed price* through an **ETL Pipeline**. 
 
-The project us focused on **Data Engineering** - the goal is to develop a safe and reliable **ETL Pipeline** built on **PySpark** that can be deployed for Machine Learning tasks. It is divided into three stages - 
+This [project](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb) is engineered to use **Pyspark** to load over a million records of car sales made across the United States (>500MB) and processes them to understand various predictors of *listed price* through an **ETL Pipeline**.
+
+The project is focused on **Data Engineering** - the goal is to develop a safe and reliable **ETL Pipeline** built on **PySpark** that can be deployed for Machine Learning tasks. It is divided into three stages - 
 
 ## 1. Problem Definition
 
@@ -38,7 +38,7 @@ Contents covered in this notebook include:
 * SQL queries with **SparkSQL**.
 * Visualization with **Matplotlib**.
 * Machine Learning with **Spark-sklearn**.
- 
+
 Access to the notebook: [PySpark Vehicles](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb).
 
 <br>
@@ -56,10 +56,6 @@ Contains all relevant information on car sales including columns like price, con
 
 <br>
 
-Contributors - Devesh Sharma 
+Contributors - Devesh Sharma
 
 For any questions, please [contact me](devsharma.work@gmail.com) - `devsharma.work@gmail.com`.
-
-
-
-
