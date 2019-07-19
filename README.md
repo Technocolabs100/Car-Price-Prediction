@@ -4,8 +4,6 @@
 
 This [project](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb) is engineered to use **Pyspark** to load over a million records of car sales made across the United States (>500MB) and process them to understand various predictors of *listed price* through an **ETL Pipeline**.
 
-This [project](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb) is engineered to use **Pyspark** to load over a million records of car sales made across the United States (>500MB) and processes them to understand various predictors of *listed price* through an **ETL Pipeline**.
-
 The project is focused on **Data Engineering** - the goal is to develop a safe and reliable **ETL Pipeline** built on **PySpark** that can be deployed for Machine Learning tasks. It is divided into three stages -
 
 ## 1. Problem Definition
