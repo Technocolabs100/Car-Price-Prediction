@@ -1,5 +1,8 @@
 # Car-Price-Prediction
 
+Access notebook: [PySpark Vehicles](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb).
+
+
 MIT License
 
 Copyright (c) 2019 Devesh Sharma
@@ -15,15 +18,28 @@ The project is focused on **Data Engineering** - the goal is to develop a safe a
 * Identify the Problem Features, Aims and Variables.
 * Configure Tools and Packages required.
 * Determine Input and Output formats.
+* Installation Setup:
+    *   Environment Configuration
+    *   Python Packages
+    *   Apache Spark
 
 
 ## 2. ETL (Extract, Transform, Load)
 
-* Perform EDA (Exploratory Data Analysis) on a Sample of the Data using Pandas.
-* Data Visualization.
-* Data Cleaning.
-* Data Collecting.
-* Data Preprocessing.
+Various Stages of the ETL Pipeline:
+
+* Extract:
+    * Data Collection (Kaggle)
+    * Data Cleaning
+    * Caching Data on S3
+* Transform:
+    * Sampling Data
+    * Exploratory Data Analysis using Pandas and Matplotlib
+    * Data Visualization
+    * Transformations
+    * Cache Data on S3
+* Load:
+    * Data Preprocessing for Learning Model
 
 
 ## 3.  Machine Learning
@@ -38,12 +54,13 @@ The project is focused on **Data Engineering** - the goal is to develop a safe a
 Contents covered in this notebook include:
 * **Environment configuration**: Jupyter Notebook, UNIX, Python and PySpark.
 * Management of a Spark Session.
-* Data wrangling, Cleaning and Transformation.
+* Data Collection, Cleaning and Transformation.
+* Data Analysis using Pyspark Dataframes
+* EDA using Pandas Dataframes
 * SQL queries with **SparkSQL**.
 * Visualization with **Matplotlib**.
-* Machine Learning with **Spark-sklearn**.
 
-Access to the notebook: [PySpark Vehicles](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb).
+
 
 <br>
 
