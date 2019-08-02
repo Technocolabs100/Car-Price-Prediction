@@ -30,14 +30,15 @@ Various Stages of the ETL Pipeline:
 
 * Extract:
     * Data Collection (Kaggle)
+    * Data Validation
     * Data Cleaning
     * Caching Data on S3
 * Transform:
+    * Cleaning Data for Project Specifications
     * Sampling Data
     * Exploratory Data Analysis using Pandas and Matplotlib
     * Data Visualization
-    * Transformations
-    * Cache Data on S3
+    * Caching Data on S3
 * Load:
     * Data Preprocessing for Learning Model
 
