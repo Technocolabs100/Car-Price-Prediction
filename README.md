@@ -1,6 +1,8 @@
 # Car-Price-Prediction
 
-Access notebook: [PySpark Vehicles](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb).
+Access Notebook: [PySpark Vehicles](https://github.com/devsharma96/Car-Price-Prediction/tree/master/ETL/PySpark%20Vehicles.ipynb).
+
+Access Interactive Web Blog: [PySpark Vehicles](https://devsharma96.github.io/).
 
 
 MIT License
